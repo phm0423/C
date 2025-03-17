@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{3B6302E1-1BD0-47F9-911F-8CFBF07C628B}|Day4.vcxproj|solutionrelative:arrayPointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3B6302E1-1BD0-47F9-911F-8CFBF07C628B}|Day4.vcxproj|C:\\Source\\C\\Day4\\string2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B6302E1-1BD0-47F9-911F-8CFBF07C628B}|Day4.vcxproj|solutionrelative:string2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B6302E1-1BD0-47F9-911F-8CFBF07C628B}|Day4.vcxproj|C:\\Source\\C\\Day4\\dpointer2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3B6302E1-1BD0-47F9-911F-8CFBF07C628B}|Day4.vcxproj|solutionrelative:dpointer2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -67,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{3B6302E1-1BD0-47F9-911F-8CFBF07C628B}|Day4.vcxproj|solutionrelative:string.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B6302E1-1BD0-47F9-911F-8CFBF07C628B}|Day4.vcxproj|C:\\Source\\C\\Day4\\string2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3B6302E1-1BD0-47F9-911F-8CFBF07C628B}|Day4.vcxproj|solutionrelative:string2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B6302E1-1BD0-47F9-911F-8CFBF07C628B}|Day4.vcxproj|C:\\Source\\C\\Day4\\string3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3B6302E1-1BD0-47F9-911F-8CFBF07C628B}|Day4.vcxproj|solutionrelative:string3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -98,16 +98,16 @@
               "Title": "arrayPointer.c",
               "DocumentMoniker": "C:\\Source\\C\\Day4\\arrayPointer.c",
               "RelativeDocumentMoniker": "arrayPointer.c",
-              "ToolTip": "C:\\Source\\C\\Day4\\arrayPointer.c*",
-              "RelativeToolTip": "arrayPointer.c*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBUAAAAPAAAAAAAAAA==",
+              "ToolTip": "C:\\Source\\C\\Day4\\arrayPointer.c",
+              "RelativeToolTip": "arrayPointer.c",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwB8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-14T07:50:55.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "dpointer2.c",
               "DocumentMoniker": "C:\\Source\\C\\Day4\\dpointer2.c",
               "RelativeDocumentMoniker": "dpointer2.c",
@@ -120,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "dpointer.c",
               "DocumentMoniker": "C:\\Source\\C\\Day4\\dpointer.c",
               "RelativeDocumentMoniker": "dpointer.c",
@@ -133,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "pointerArray.c",
               "DocumentMoniker": "C:\\Source\\C\\Day4\\pointerArray.c",
               "RelativeDocumentMoniker": "pointerArray.c",
@@ -146,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "pointArray.c",
               "DocumentMoniker": "C:\\Source\\C\\Day4\\pointArray.c",
               "RelativeDocumentMoniker": "pointArray.c",
@@ -159,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "array2.c",
               "DocumentMoniker": "C:\\Source\\C\\Day4\\array2.c",
               "RelativeDocumentMoniker": "array2.c",
@@ -172,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "array_prac.c",
               "DocumentMoniker": "C:\\Source\\C\\Day4\\array_prac.c",
               "RelativeDocumentMoniker": "array_prac.c",
@@ -185,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "array.c",
               "DocumentMoniker": "C:\\Source\\C\\Day4\\array.c",
               "RelativeDocumentMoniker": "array.c",
@@ -198,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "value2.c",
               "DocumentMoniker": "C:\\Source\\C\\Day4\\value2.c",
               "RelativeDocumentMoniker": "value2.c",
@@ -211,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "value.c",
               "DocumentMoniker": "C:\\Source\\C\\Day4\\value.c",
               "RelativeDocumentMoniker": "value.c",
@@ -224,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "strcmp.c",
               "DocumentMoniker": "C:\\Source\\C\\Day4\\strcmp.c",
               "RelativeDocumentMoniker": "strcmp.c",
@@ -237,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "strcat.c",
               "DocumentMoniker": "C:\\Source\\C\\Day4\\strcat.c",
               "RelativeDocumentMoniker": "strcat.c",
@@ -250,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "strlen.c",
               "DocumentMoniker": "C:\\Source\\C\\Day4\\strlen.c",
               "RelativeDocumentMoniker": "strlen.c",
@@ -263,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "strcpy2.c",
               "DocumentMoniker": "C:\\Source\\C\\Day4\\strcpy2.c",
               "RelativeDocumentMoniker": "strcpy2.c",
@@ -276,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "strcpy.c",
               "DocumentMoniker": "C:\\Source\\C\\Day4\\strcpy.c",
               "RelativeDocumentMoniker": "strcpy.c",
@@ -315,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
               "Title": "string2.c",
               "DocumentMoniker": "C:\\Source\\C\\Day4\\string2.c",
               "RelativeDocumentMoniker": "string2.c",
@@ -328,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "string.c",
               "DocumentMoniker": "C:\\Source\\C\\Day4\\string.c",
               "RelativeDocumentMoniker": "string.c",

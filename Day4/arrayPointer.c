@@ -27,6 +27,6 @@ int main()
 
 /*
 	int(* pary)[4]	// int형 변수 4개의 배열을 가리키는 배열 포인터
-	int* pary[4]	// 배열 포인터
+	int* pary[4]	// 포인터 배열
 	
 */

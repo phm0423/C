@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\C\\Day5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|C:\\Source\\C\\Day5\\stArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|solutionrelative:stArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|C:\\Source\\C\\Day5\\sturct2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|solutionrelative:sturct2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|C:\\Source\\C\\Day5\\struct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|solutionrelative:struct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|C:\\Source\\C\\Day5\\voidpointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|solutionrelative:voidpointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|C:\\Source\\C\\Day5\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|C:\\Source\\C\\Day5\\malloc2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|solutionrelative:malloc2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|C:\\Source\\C\\Day5\\malloc_prac.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|solutionrelative:malloc_prac.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|C:\\Source\\C\\Day5\\struct6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|solutionrelative:struct6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|C:\\Source\\C\\Day5\\struct5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|solutionrelative:struct5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|C:\\Source\\C\\Day5\\struct4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|solutionrelative:struct4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|C:\\Source\\C\\Day5\\struct2-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|solutionrelative:struct2-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|C:\\Source\\C\\Day5\\struct3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|solutionrelative:struct3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|C:\\Source\\C\\Day5\\malloc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|solutionrelative:malloc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|C:\\Source\\C\\Day5\\voidpointer2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29EADA1E-C6D1-4509-8848-642DEFE31FAE}|Day5.vcxproj|solutionrelative:voidpointer2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stArray.c",
+              "DocumentMoniker": "C:\\Source\\C\\Day5\\stArray.c",
+              "RelativeDocumentMoniker": "stArray.c",
+              "ToolTip": "C:\\Source\\C\\Day5\\stArray.c",
+              "RelativeToolTip": "stArray.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T07:50:54.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "struct6.c",
+              "DocumentMoniker": "C:\\Source\\C\\Day5\\struct6.c",
+              "RelativeDocumentMoniker": "struct6.c",
+              "ToolTip": "C:\\Source\\C\\Day5\\struct6.c",
+              "RelativeToolTip": "struct6.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T07:26:29.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "struct5.c",
+              "DocumentMoniker": "C:\\Source\\C\\Day5\\struct5.c",
+              "RelativeDocumentMoniker": "struct5.c",
+              "ToolTip": "C:\\Source\\C\\Day5\\struct5.c",
+              "RelativeToolTip": "struct5.c",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T06:43:16.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "struct4.c",
+              "DocumentMoniker": "C:\\Source\\C\\Day5\\struct4.c",
+              "RelativeDocumentMoniker": "struct4.c",
+              "ToolTip": "C:\\Source\\C\\Day5\\struct4.c",
+              "RelativeToolTip": "struct4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T06:15:46.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "struct3.c",
+              "DocumentMoniker": "C:\\Source\\C\\Day5\\struct3.c",
+              "RelativeDocumentMoniker": "struct3.c",
+              "ToolTip": "C:\\Source\\C\\Day5\\struct3.c",
+              "RelativeToolTip": "struct3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T06:03:56.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "struct2-2.c",
+              "DocumentMoniker": "C:\\Source\\C\\Day5\\struct2-2.c",
+              "RelativeDocumentMoniker": "struct2-2.c",
+              "ToolTip": "C:\\Source\\C\\Day5\\struct2-2.c",
+              "RelativeToolTip": "struct2-2.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T05:48:44.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sturct2.c",
+              "DocumentMoniker": "C:\\Source\\C\\Day5\\sturct2.c",
+              "RelativeDocumentMoniker": "sturct2.c",
+              "ToolTip": "C:\\Source\\C\\Day5\\sturct2.c",
+              "RelativeToolTip": "sturct2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T05:16:20.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "struct.c",
+              "DocumentMoniker": "C:\\Source\\C\\Day5\\struct.c",
+              "RelativeDocumentMoniker": "struct.c",
+              "ToolTip": "C:\\Source\\C\\Day5\\struct.c",
+              "RelativeToolTip": "struct.c",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T05:16:48.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "malloc_prac.c",
+              "DocumentMoniker": "C:\\Source\\C\\Day5\\malloc_prac.c",
+              "RelativeDocumentMoniker": "malloc_prac.c",
+              "ToolTip": "C:\\Source\\C\\Day5\\malloc_prac.c",
+              "RelativeToolTip": "malloc_prac.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T02:50:56.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "malloc2.c",
+              "DocumentMoniker": "C:\\Source\\C\\Day5\\malloc2.c",
+              "RelativeDocumentMoniker": "malloc2.c",
+              "ToolTip": "C:\\Source\\C\\Day5\\malloc2.c",
+              "RelativeToolTip": "malloc2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T02:18:00.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "malloc.c",
+              "DocumentMoniker": "C:\\Source\\C\\Day5\\malloc.c",
+              "RelativeDocumentMoniker": "malloc.c",
+              "ToolTip": "C:\\Source\\C\\Day5\\malloc.c",
+              "RelativeToolTip": "malloc.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T01:42:28.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "voidpointer2.c",
+              "DocumentMoniker": "C:\\Source\\C\\Day5\\voidpointer2.c",
+              "RelativeDocumentMoniker": "voidpointer2.c",
+              "ToolTip": "C:\\Source\\C\\Day5\\voidpointer2.c",
+              "RelativeToolTip": "voidpointer2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T01:34:09.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "voidpointer.c",
+              "DocumentMoniker": "C:\\Source\\C\\Day5\\voidpointer.c",
+              "RelativeDocumentMoniker": "voidpointer.c",
+              "ToolTip": "C:\\Source\\C\\Day5\\voidpointer.c",
+              "RelativeToolTip": "voidpointer.c",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T00:37:37.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Source\\C\\Day5\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Source\\C\\Day5\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-17T00:23:46.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
